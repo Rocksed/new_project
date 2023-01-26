@@ -1,5 +1,5 @@
 def caps():
-    """Caps"""
+    """Cap"""
     caps_lk = input('Введите слово: ')
     return print(caps_lk.upper())
 
@@ -8,7 +8,7 @@ caps()
 
 
 def capital_letters():
-    """title caps"""
+    """title cap"""
     caps_lk = input('Введите слово: ')
     return print(caps_lk.title())
 
